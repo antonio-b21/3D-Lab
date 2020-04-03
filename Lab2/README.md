@@ -13,6 +13,6 @@ lab video tutorials) you can find the isometric schemes at [this link](https://d
 ### A2
 ![A2](A2.png)
 ### A3
-![A3](A2.png)
+![A3](A3.png)
 ### A4
-![A4](A2.png)
+![A4](A4.png)
