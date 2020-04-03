@@ -5,5 +5,5 @@
 2. Create a 3D model vase starting from a 2D sketch.
 3. Edit the vase shape by modifying the 2D sketch.
 4. Slice both models in Prusa Slicer using different ways to find out the optimal time for printing.
-![Keychain](Lab1/Keychain.png)
-![Vase](Lab1/Vase.png)
+![Keychain](Keychain.png)
+![Vase](Vase.png)
