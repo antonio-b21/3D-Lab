@@ -29,4 +29,4 @@ are not connected. For the full grade, you need to find a way to make each
 chess piece only one body! (Fig. 2)
 
 7. Slice all the pieces in PrusaSlicer.
-![Chess_pices](Chess_pices.png)
+![Chess_peices](Chess_peices.png)
