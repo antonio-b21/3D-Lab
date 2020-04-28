@@ -3,9 +3,6 @@
 ## Tasks:
 1. Watch and understand the courses videos about Rotational to Linear Motion and Vice-Versa mechanisms (We recommend to model them on your own as well)
 
-![Crank-and-slotted-link-mechanism](Crank-and-slotted-link-mechanism.png)
-
-
 2. Design the [Scotch Yoke Mechanism](https://www.youtube.com/watch?v=HhX-8RyP214) taking the course videos as reference (especially the slider crank mechanism; in this one can see why it’s important to use Fusion Rule Number 1)
 
   a. Divide the mechanism into components
