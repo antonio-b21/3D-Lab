@@ -1,4 +1,4 @@
-<h1 align="center">Open Differential - Final Project</p>
+<h1 align="center">Open Differential - Final Project</h1>
 
 <p align="center"><img src="Open%20Differential.png" alt="Open Differential" width="80%"></p>
 
