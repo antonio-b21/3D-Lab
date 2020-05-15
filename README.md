@@ -8,4 +8,4 @@
  5. [Geneva drive and Evolution door](https://github.com/antonio-b21/3DMP/tree/master/Lab5)
 
  ### Final Project:
- #### [Open Differential](https://github.com/antonio-b21/3DMP/tree/master/Open%20Differential)
+  * #### [Open Differential](https://github.com/antonio-b21/3DMP/tree/master/Open%20Differential)
